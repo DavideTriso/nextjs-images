@@ -1,6 +1,6 @@
-# Docker NextJS
+# NextJS Images
 
-Image to run NextJS apps in docker.
+Images to run NextJS apps in containers.
 
 ## Quick reference
 
